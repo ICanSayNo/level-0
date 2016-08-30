@@ -67,11 +67,10 @@ for (int o = 0; o < 3; o++) {
 //		1 2 3
 //		4 5 6
 //		7 8 9
-for (int q = 1; q < 8; q+=3) {
-	for (int r = 2; r < 9; r+=3) {
-		for (int s = 3; s < 10; s+=3) {
-			System.out.println(q+" "+r+" "+s);
-		}
+for (int q = 0; q < 3; q+=3) {
+	for (int r = 0; r < 3; r++) {
+		
+	System.out.println();
 	}
 }
 
